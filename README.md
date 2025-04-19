@@ -24,7 +24,3 @@ It uses popular libraries and frameworks like React, Vite, and Bootstrap to deli
 - Interactive UI components using React and React Icons
 - Fast development and build with Vite
 - Code quality and styling enforcement using ESLint
-
----
-
-> This project is shared for demonstration purposes only.  
