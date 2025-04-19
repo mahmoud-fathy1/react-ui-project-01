@@ -27,5 +27,4 @@ It uses popular libraries and frameworks like React, Vite, and Bootstrap to deli
 
 ---
 
-> ⚠️ Disclaimer  
 > This project is shared for demonstration purposes only.  
